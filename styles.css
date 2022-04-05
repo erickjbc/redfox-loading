@@ -165,4 +165,8 @@ html {
     #contact p {
         font-size: 10px;
     }
+
+    #services a {
+        font-size: 15px;
+    }
   }
